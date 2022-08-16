@@ -1,3 +1,6 @@
+<img width="965" alt="Screen Shot 2022-08-15 at 10 51 07 PM" src="https://user-images.githubusercontent.com/8536346/184807305-002b40db-9880-487a-9d12-c0eb87139bc6.png">
+
+
 ### Hi there 👋
 
 I'm Shungo Najima, and welcome to my GitHub profile!
