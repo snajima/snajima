@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm Shungo Najima, and welcome to my GitHub profile!
+
+I'm currently an undergraduate student at Cornell University studying Computer Science. You can learn more about me/contact me through the following links:
+
+- [My website](https://shungonajima.com/)
+- [LinkedIn](https://www.linkedin.com/in/snajima/)
+- [Email](mailto:sn685@cornell.edu)
+
 <!--
 **snajima/snajima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
